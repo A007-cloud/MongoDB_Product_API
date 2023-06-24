@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-product_api",
+  "version": "1.0.0",
+  "description": "post API route to store products",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aditya Das",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "mongoose": "^7.3.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
